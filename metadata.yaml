@@ -1,5 +1,8 @@
 _repo: Corazon-b-Diario-de-un-nino_73486
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73486-h/images/cover.jpg
 creator:
   author:
     agent_name: De Amicis, Edmondo
@@ -15,6 +18,8 @@ creator:
     - https://en.wikipedia.org/wiki/Edmondo_De_Amicis
     - https://it.wikipedia.org/wiki/Edmondo_De_Amicis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73486#Corazon-b-Diario-de-un-nino
 gutenberg_issued: '2024-04-28'
 gutenberg_type: Text
 identifiers:
